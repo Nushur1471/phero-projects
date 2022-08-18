@@ -1,0 +1,44 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(153, 97, 97);
+    background-color: rgb(113, 196, 168);
+}
+h3{
+    text-align: right;
+}
+.lr{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+}
+#foo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 2em;
+    color: rgb(243, 118, 69);
+    text-align: center;
+}
+#sm{
+    font-family: sans-serif;
+}
+div{
+    border: 50px dotted rgb(245, 168, 67);
+    border-radius: 40px;
+    margin: 15px auto;
+    padding: 10px;
+    font-family: sans-serif;
+    background-color: rgb(236, 233, 199);
+}
+div h2{
+    color: rgb(85, 167, 3);
+}
+.myname{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    font-size: larger;
+}
+.textblock{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    margin: 20px 40px;
+    padding: 5px;
+}
